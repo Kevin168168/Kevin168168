@@ -1,13 +1,8 @@
 
 Just Enough Items (JEI)
 
-恰到好處的物品 (JEI)
-
 Forge 1.17.1
 
-鍛造 1.17.1
-
-minecraft https://www.curseforge.com/minecraft/mc-mods/jei/files/3485388
-我的世界 https://www.curseforge.com/minecraft/mc-mods/jei/files/3485388
-
-and
+1.17.1 Java file:///C:/Users/user/Downloads/jre-8u301-windows-x64.exe
+1.17.1 Forge https://files.minecraftforge.net/net/minecraftforge/forge/index_1.17.1.html
+1.17.1 Just Enough Items (JEI) file:///C:/Users/user/Downloads/jei-1.17.1-8.1.0.23.jar
